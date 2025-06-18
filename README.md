@@ -1,1 +1,2 @@
-# customer-churn-prediction
+Churn prediction is a crucial process in business that involves identifying customers who are likely to stop using a product or service (i.e., "churn"). The goal is to proactively intervene and implement retention strategies to prevent these customers from leaving, as acquiring new customers is often more expensive than retaining existing ones.
+By effectively implementing churn prediction, businesses can significantly improve customer retention, foster stronger customer relationships, and drive sustainable growth.
